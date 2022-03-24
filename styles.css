@@ -117,11 +117,15 @@ ul {
 
 }
 .menu-bar-item {
+   width: 200px;
+   display: flex;
    padding: 20px 0 20px 30px;
    margin-left: 10px;
    cursor: pointer;
 }
 .menu-bar-item-1 {
+    width: 200px;
+    display: flex;
     padding: 20px 0 20px 30px;
     margin: 10px 0 0 10px;
     cursor: pointer;
